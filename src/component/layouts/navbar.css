@@ -1,0 +1,22 @@
+.custom-navbar {
+    background-color: green !important; /* Ensure the background color is applied */
+  }
+  
+  .navbar-brand {
+    color: white !important;
+  }
+  
+  .nav-link {
+    color: white !important;
+  }
+  
+  .btn-outline-light {
+    border-color: white !important;
+    color: white !important;
+  }
+  
+  .btn-outline-light:hover {
+    background-color: white !important;
+    color: green !important;
+  }
+  
